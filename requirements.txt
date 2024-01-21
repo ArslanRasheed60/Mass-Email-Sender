@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-decouple
+python-multipart
+pyngrok
+email_reply_parser
